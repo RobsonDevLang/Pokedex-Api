@@ -1,3 +1,5 @@
+
+const htmlPokemon= document.getElementById('pokemonList')
 var orderPokemon = 0;
 function convertPokemonToLi(pokemon) {
     // Certifique-se de que 'orderPokemon' está definido
